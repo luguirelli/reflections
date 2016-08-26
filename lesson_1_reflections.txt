@@ -1,36 +1,37 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Fill in your answer here
+    A partir desse comando é possivel anlisar visivelmente as difenrenças entre os dois arquivos por meio do prompt de comando e assim vemos as possíveis mudanças que podem ter causado um bug.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    Por meio do conhecimento de toda a historia do arquivo pode-se ter em mente os objetivo da criação de tal codigo por exemplo, algum bug que pode nao ter sido retirado  ou como esse bug foi resolvido,além de compreender o metodo de construção do projeto
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
+   Um fator a favor é que o Git da ao usuario historico das mudanças e autonomia,porém um fator contra é que aumenta a responsabilidade do usuario ao criar e modificar o arquivo.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+   Porque este fato permite ao usuario comparar varias mudanças feitas em um so projeto.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+O comando git log mostra  o mesmo projetos e exibe os commits dele.Já o git diff mostra a diferença entre dois commits ID.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Usar uma versão de controle garante que não eu modificarei o arquivo mas tambem outros pessoas e apos isso é possivel comparar as mudanças e analisa-las
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    Eu quero tentar usar o Git para conseguir produzir projetos maiores e com maior velocidade de criação.
+
 
 
    Luisa
