@@ -1,1 +1,32 @@
 When would you want to create a remote repository rather than keeping all your work local? 
+
+Quando quisesse transmitir o conteudo de um repositorio para um remoto,que será usado para compatilhar o conteudo.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Para evitar que com autalização automatica o repositorio remoto seja preenchido com commits que eu nao queira.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+.Branch são criando em um unico repositorio e sao usado como rotulos para os commits;
+    .Clone é usado para criar repositorio identicos/clonar de um repositorio remoto(GitHub) para o Local ou dentro um mesmo Local;
+    .Fork é usado para clonar repositorios de GitHub para GitHub.
+    
+    What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+O beneficio é que torna-se possivel estar atualizado sobre as possiveis atualizações feitas por colaboradores alem de possibilitar mudanças no arquivo mais recente.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+Eu colaboraria tentando entrar em contato com a pessoa de outra ( por meio de redes sociais ou e-mail).Seria mais facil a comunicação entre as pessoas pois haveria a possibilidade de varios caminhos, o que seria dificil seria a aquisição do arquivo atualizados cada um por um dos sujeitos e uni-los.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+Quando deseja-se fazer modificoes no arquivo porem ainda nao foram analisadas e aprovadas pelo criador do master. Os beneficios sao que com isso pode-se ter varias alterações de um mesmo arquivo e depois é possivel compara-las e escolhe-las conforme a necessidades e gosto, e assim nao perdendo o arquivo original.
+    
+
